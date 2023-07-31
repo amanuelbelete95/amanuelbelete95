@@ -68,7 +68,8 @@
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/892a9ae4-094e-400f-8980-96ad05859359" target="blank"><img src="./images/html-css-badge.png" width="80"></a> &nbsp;
   <a href="https://www.credential.net/5195e7c0-2311-4e09-b65e-2f3bbebb2dab#gs.t3r070" target="blank"><img src="./images/js-badge.png" width="80"></a> &nbsp;
-<!--<a href="https://www.credential.net/acfff22f-8454-49f9-94cc-412a45474831#gs.6nv43p" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/e5eb4ffb-dd1c-4e11-806e-4471b975eb3e#gs.8ndmnv" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/523addae-8430-4be1-b42b-e96bddd8f3cd#gs.do1qdt" target="blank"><img src="./images/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/ead19171-5e17-4ca0-b87a-44e502f92274#gs.f8u1wp" target="blank"><img src="./images/web-dev-badge.png" width="80"></a> -->
+<a href="https://www.credential.net/8e735c99-60ac-4a61-8925-cda17e9bcdc4#gs.3swn0a" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp; 
+<!-- 	<a href="https://www.credential.net/e5eb4ffb-dd1c-4e11-806e-4471b975eb3e#gs.8ndmnv" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/523addae-8430-4be1-b42b-e96bddd8f3cd#gs.do1qdt" target="blank"><img src="./images/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/ead19171-5e17-4ca0-b87a-44e502f92274#gs.f8u1wp" target="blank"><img src="./images/web-dev-badge.png" width="80"></a> -->
 </p>
 
 <h2 align ="left">GitHub Stats</h2>

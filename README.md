@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there👋, I'm Amanuel</h1>
-<h3 align="center">I am a software developer from Ethiopia</h3>
+<h3 align="center">I am a FullStack Web Developer</h3>
 
 <p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning software languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 

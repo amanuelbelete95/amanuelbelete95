@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Amanuel</h1>
 <h3 align="center">I am a Frontend developer </h3>
 
-<p align="center">Currently, I am a remote student at Microverse training to become a web developer. I have a great passion for learning software languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
+<p align="center">Frontend Web Developer proficient in React, Redux, JavaScript, TypeScript. Highly motivated and self-directed learner. A Team player who is able to work effectively with others.</p>
 
 ---
 

@@ -1,7 +1,11 @@
-<h1 align="center"> Hi there👋, I'm Amanuel</h1>
-<h3 align="center">I am a Frontend developer </h3>
+<div> 
+ <p> 🧪 From balancing chemical equations to balancing props in React ⚛️ </p>
+ <p> 🌍 Currently brewing UI components in the vast lab of Frontend Development</p>
+ <p> 🔧 Tools of choice: React, TypeScript, Chakra UI, and a dash of humor<p/>
+</div>
 
-<p align="center">Frontend Web Developer proficient in React, Redux, JavaScript, TypeScript. Highly motivated and self-directed learner. A Team player who is able to work effectively with others.</p>
+
+When I'm not busy debugging or crafting pixel-perfect UIs, you can find me plotting world domination... through clean, efficient code.
 
 ---
 

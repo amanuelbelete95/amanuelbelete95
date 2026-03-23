@@ -17,19 +17,18 @@ When I'm not busy debugging or crafting pixel-perfect UIs, you can find me plott
 	</a> -->
 </div>
 
----
-
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-- 🎓 I have a **Bachelor's degree** in Engineering. Obtained from Addis Ababa University, Ethiopia.
-
-- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- 🎓 Full-stack web developer with extensive experience developing scalable, high-performance web applications. Skilled at creating intuitive user interfaces and robust full-stack solutions that prioritize performance optimization, clean architecture, and seamless API integration. Passionate about developing digital products that not only perform well but also provide meaningful and engaging user experiences.
 
 <!-- - 🌱 I’m currently working on side projects. -->
 
 - 💻 All **my projects** are available [here.](https://github.com/amanuelbelete95?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://amanuelbelete95.github.io/Portfolio/)
+### 🚀 Check out My Latest Project: Event Management System 
+[Frontend](https://github.com/amanuelbelete95/event-frontend)
+
+[Backend](https://github.com/amanuelbelete95/event-backend)
 
 ### 📫 Reach me on:
 

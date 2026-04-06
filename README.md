@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Amanuel! 👋</h1>
-  <p>🧪 From balancing chemical equations to balancing props in React ⚛️</p>
-  <p>🌍 Currently brewing high-performance UI components and financial software solutions</p>
-  <p>🔧 Tools of choice: React, TypeScript, Tailwind CSS, and SQLite</p>
+  <p>🧪 From balancing chemical equations to balancing props in React ⚛️ and designing scalable APIs</p>
 </div>
 
 ---

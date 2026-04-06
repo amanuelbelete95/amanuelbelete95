@@ -25,10 +25,10 @@ When I'm not busy debugging or crafting pixel-perfect UIs, you can find me plott
 
 - 💻 All **my projects** are available [here.](https://github.com/amanuelbelete95?tab=repositories)
 
-### 🚀 Check out My Latest Project: Event Management System 
-[Frontend](https://github.com/amanuelbelete95/event-frontend)
+### 🚀 Check out My Latest Project: 
+Event Management System Web Application:
 
-[Backend](https://github.com/amanuelbelete95/event-backend)
+[EMS-Loading...]()
 
 ### 📫 Reach me on:
 

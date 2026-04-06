@@ -9,8 +9,14 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-stack Web Developer** with a focus on building scalable financial software and ERP systems. I enjoy bridging the gap between complex accounting principles and intuitive user interfaces. My recent work includes deep dives into software localization (English/Afaan Oromo) and implementing custom calendar logic (Ethiopian/Gregorian).
+I build scalable web applications that solve real business problems.
+Recently, I’ve worked on:
 
+- Financial software systems
+- ERP (Enterprise Resource Planning) platforms
+- Event management systems
+
+My focus is on creating reliable, user-friendly, and scalable solutions—from backend architecture to frontend experience.
 When I'm not debugging or crafting pixel-perfect UIs, you can find me plotting world domination... through clean, efficient code.
 
 - 🎓 **Background:** Transitioned from a different field into tech via Microverse Bootcamp.
@@ -26,10 +32,9 @@ When I'm not debugging or crafting pixel-perfect UIs, you can find me plotting w
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
@@ -46,8 +51,5 @@ When I'm not debugging or crafting pixel-perfect UIs, you can find me plotting w
 ### 📫 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/AmanuelBelete11" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amanuel-belete-292994194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amanuelbelete/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<p align="left">⚡ <b>Fun fact:</b> I believe developers in the gaming industry might just be the happiest bunch in tech.</p>

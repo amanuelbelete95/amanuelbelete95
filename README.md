@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Hi, I'm Amanuel! 👋</h1>
-  <p>🧪 From balancing chemical equations to balancing props in React ⚛️ and designing scalable APIs</p>
+  <h1>Hi, I'm Amanuel! </h1>
+  <p> From balancing chemical equations to balancing props in React and designing scalable APIs</p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I build scalable web applications that solve real business problems.
 Recently, I’ve worked on:
@@ -15,16 +15,13 @@ Recently, I’ve worked on:
 - Event management systems
 
 My focus is on creating reliable, user-friendly, and scalable solutions—from backend architecture to frontend experience.
-When I'm not debugging or crafting pixel-perfect UIs, you can find me plotting world domination... through clean, efficient code.
 
-- 🎓 **Background:** Transitioned from a different field into tech via Microverse Bootcamp.
-- 🚀 **Latest Project:** [EMS - Event Management System](https://github.com/amanuelbelete95) (Building robust management tools).
-- 🛠️ **Current Focus:** Optimizing CRUD operations and auth logic with SQLite.
-- ✨ **Interests:** Coding, Reading, Art, Video Games, and Football.
+-  **Latest Project:** [EMS - Event Management System](https://github.com/amanuelbelete95) (Building robust management tools).
+-  **Interests:** Coding and Football.
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -37,7 +34,7 @@ When I'm not debugging or crafting pixel-perfect UIs, you can find me plotting w
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amanuelbelete95&show_icons=true&theme=nightowl&count_private=true"/>
@@ -46,7 +43,7 @@ When I'm not debugging or crafting pixel-perfect UIs, you can find me plotting w
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/amanuelbelete/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

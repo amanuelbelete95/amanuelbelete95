@@ -20,6 +20,21 @@ My focus is on creating reliable, user-friendly, and scalable solutions—from b
 -  **Interests:** Coding and Football.
 
 ---
+###  <strong style="color: #addb67;">🚀 Featured Project: Event Management System (EMS)</strong><br/>
+
+<div align="start">
+  <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #011627;">
+    <tr>
+      <td bgcolor="#011627" align="left">
+        <strong style="color: #addb67;">Event Management System (EMS)</strong><br/>
+        <p style="color: #d6deeb;">A full-scale frontend built with React, focused on scalable architecture and enterprise logic.</p>
+        <code style="color: #82aaff;">React • JavaScript • Node • PostgreSQL</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ### My Tech Stack
 
@@ -37,9 +52,11 @@ My focus is on creating reliable, user-friendly, and scalable solutions—from b
 ### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amanuelbelete95&show_icons=true&theme=nightowl&count_private=true"/>
+  <!-- <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amanuelbelete95&show_icons=true&theme=nightowl&count_private=true"/> -->
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amanuelbelete95&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanuelbelete95&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
+
 
 ---
 

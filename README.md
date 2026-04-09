@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Amanuel! </h1>
-  <p> From balancing chemical equations to balancing props in React and designing scalable APIs</p>
+  <h2>Full-Stack Developer | Building Scalable Solutions </h2>
+  <p>Crafting seamless user experiences with React and robust backends with PostgreSQL</p>
 </div>
 
----
 
 ###  About Me
 

@@ -16,7 +16,7 @@ Recently, I’ve worked on:
 
 My focus is on creating reliable, user-friendly, and scalable solutions—from backend architecture to frontend experience.
 
--  **Latest Project:** [EMS - Event Management System](https://github.com/amanuelbelete95) (Building robust management tools).
+-  **Latest Project:** [EMS](https://event-frontend-nivj.vercel.app/) (Building robust management tools).
 -  **Interests:** Coding and Football.
 
 ---

@@ -27,7 +27,7 @@ My focus is on creating reliable, user-friendly, and scalable solutions—from b
     <tr>
       <td bgcolor="#011627" align="left">
         <strong style="color: #addb67;">Event Management System (EMS)</strong><br/>
-        <p style="color: #d6deeb;">A full-scale frontend built with React, focused on scalable architecture and enterprise logic.</p>
+        <p style="color: #d6deeb;">A full-scale built with JavaScript(React),Node(Express) and PostgreSQL, focused on scalable architecture and enterprise logic.</p>
         <code style="color: #82aaff;">React • JavaScript • Node • PostgreSQL</code>
       </td>
     </tr>

@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Amanuel! </h1>
-  <h2> Full Stack Software Engineer | Building ERP and EM Systems | Digital Solutions </h2>
+  <h2> Full Stack Software Developer | Building ERP and EM Systems | Digital Solutions </h2>
   <p>Crafting seamless user experiences with React and robust backends with PostgreSQL</p>
 </div>
 
